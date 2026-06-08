@@ -223,7 +223,7 @@ Sin embargo, estos valores representan usuarios con uso intensivo del servicio y
 
 # ▶️ Ejecutar el Proyecto
 
-## 
+https://github.com/noecastilloz/analisis_connecta_tel/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
 
 # 👤 Autor
 
