@@ -4,9 +4,9 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la base de clientes de ConnectaTel, una empresa de telecomunicaciones. El objetivo es comprender los patrones de uso de los usuarios, segmentarlos según sus características demográficas y nivel de consumo, identificar oportunidades comerciales y generar recomendaciones para optimizar la oferta de planes.
+Este proyecto realiza un análisis exploratorio de datos (EDA) sobre la base de clientes de ConnectaTel, una empresa de telecomunicaciones. El objetivo es comprender los patrones de uso de los usuarios, segmentarlos según sus características y el nivel de consumo, identificar oportunidades comerciales y generar recomendaciones para optimizar la oferta de planes.
 
-El análisis incluye procesos de limpieza de datos, ingeniería de variables, detección de outliers, segmentación de clientes y generación de insights de negocio.
+El análisis incluye procesos de limpieza de datos, variables, detección de outliers, segmentación de clientes y generación de insights de negocio.
 
 ---
 
@@ -27,7 +27,7 @@ El análisis incluye procesos de limpieza de datos, ingeniería de variables, de
 
 ## 1. users.csv
 
-Contiene información demográfica y contractual de los clientes.
+Contiene información contractual de los clientes.
 
 ### Variables
 
@@ -44,7 +44,7 @@ Contiene información demográfica y contractual de los clientes.
 
 ### Propósito
 
-Permite analizar características demográficas de los clientes y relacionarlas con sus patrones de consumo.
+Permite analizar características de los clientes y relacionarlas con sus patrones de consumo.
 
 ---
 
@@ -115,7 +115,7 @@ Permite comprender la estructura comercial de los planes y evaluar si el comport
 * Análisis de valores nulos.
 * Validación de registros inconsistentes.
 
-## 3. Ingeniería de Variables
+## 3. Variables
 
 Se crearon variables agregadas por usuario:
 
@@ -226,6 +226,7 @@ Sin embargo, estos valores representan usuarios con uso intensivo del servicio y
 ## 
 
 # 👤 Autor
+
 * Noe Castillo Zacapala
 
 Proyecto desarrollado como ejercicio de análisis exploratorio de datos enfocado en segmentación de clientes, comportamiento de uso y generación de insights para la toma de decisiones en el sector de telecomunicaciones.
